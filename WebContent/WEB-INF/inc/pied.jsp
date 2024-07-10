@@ -1,0 +1,1 @@
+<div id="pied">Copyright &copy; M2GL 2021</div>
